@@ -175,8 +175,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="location"></div>
                 <div class="metric">
                     <h5 class="heading">CAPACITY</h5>
-                    <div class="value"><h3 class="number">28</h3>
-                        <span class="units body-1">MW</span></div>
+                    <div class="value"><h3 class="number">66</h3>
+                        <span class="units body-1">kV</span></div>
                 </div>
                 <div class="photo-link"></div>
             </div>
